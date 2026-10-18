@@ -123,6 +123,7 @@ Avoids announcing objects that are far away unless within a predefined threshold
 - Higher threshold for approaching objects.
 
 ### 4. Position Threshold
-Reduces false alarms by analyzing changes in object positions.
+Reduces false alarms by analyzing changes in object positions
+
 
 ---
